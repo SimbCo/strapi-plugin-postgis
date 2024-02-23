@@ -9,12 +9,12 @@
     "kind": "plugin"
   },
   "peerDependencies": {
-    "@strapi/strapi": "^4.1.12"
+    "@strapi/strapi": "^4.20.2"
   },
   "dependencies": {
     "@geoman-io/leaflet-geoman-free": "^2.12.0",
     "@mapbox/geojson-rewind": "^0.5.1",
-    "@strapi/strapi": "^4.1.12",
+    "@strapi/strapi": "^4.20.2",
     "@turf/turf": "^6.5.0",
     "axios": "^0.26.0",
     "codemirror": "^5.65.13",
@@ -42,10 +42,15 @@
       "name": "Majid Hojati",
       "email": "hoja4090@mylaureir.ca",
       "url": "https://github.com/am2222"
+    },
+    {
+      "name": "Simeon Bateman",
+      "email": "simeon@simb.co",
+      "url": "https://simb.co/"
     }
   ],
   "engines": {
-    "node": ">=12.x.x <=16.x.x",
+    "node": ">=12.x.x <=20.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT",
